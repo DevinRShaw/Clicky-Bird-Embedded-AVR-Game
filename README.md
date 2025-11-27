@@ -505,18 +505,7 @@ MIT License - Feel free to use this project for educational purposes.
 ## Acknowledgments
 
 - State machine architecture inspired by UC Riverside CS120B coursework
-- ST7735 initialization sequence adapted from Adafruit datasheets
 - Game concept based on original Flappy Bird by Dong Nguyen
 
----
-
-## Author
-
-**dshaw013**  
-Embedded Systems Project - Fall 2025
-
-For questions or collaboration: [your-email@example.com]
-
----
 
 **⭐ If you found this project interesting, please star the repository!**
