@@ -2,7 +2,11 @@
 
 A complete Flappy Bird game implementation on AVR ATmega1284 microcontroller featuring custom peripheral drivers, sophisticated state machine architecture, and real-time concurrent task scheduling.
 
-![Game Demo](https://via.placeholder.com/600x400?text=Flappy+Bird+AVR+Demo)
+
+## Demo
+https://github.com/user-attachments/assets/501d6ca0-d0bd-45a4-968c-676462b8d0d5
+
+
 
 ## Overview
 
